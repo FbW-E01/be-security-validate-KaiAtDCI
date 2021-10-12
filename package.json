@@ -1,0 +1,26 @@
+{
+  "name": "be-security-validate-KaiAtDCI.git",
+  "description": "- Do not use mongo/mongoose - Create a tiny API with two endpoints:   - `GET /birds` - returns current list of bird sightings in app memory   - `POST /birds` - adds a bird sighting to app memory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-security-validate-KaiAtDCI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/be-security-validate-KaiAtDCI/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/be-security-validate-KaiAtDCI#readme"
+}

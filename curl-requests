@@ -1,0 +1,2 @@
+curl -X POST -H "Content-Type: application/json" -d '{"species":"Eule", "notes": "some notes", "estimatedAmount": "2"}' http://localhost:9001/birds
+curl http://localhost:9001/birds
